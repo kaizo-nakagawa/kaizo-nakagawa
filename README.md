@@ -51,7 +51,7 @@ I am a passionate developer focused on building efficient web applications, mana
 When I am away from my IDE, you can usually find me:
 * 📸 Immersed in urban night exploration or capturing the minute details of nature through macro photography.
 * 🗺️ Trekking through nature trails or riding out into the landscape to clear my mind.
-* 🎮 Exploring the vast world of Teyvat (*Genshin Impact*) or surviving the depths of the Amazon (*Green Hell*).
+* 🎮 Surviving the depths of the Amazon (*Green Hell*) or fighting through enemies (*PUBG*).
 
 ---
 
