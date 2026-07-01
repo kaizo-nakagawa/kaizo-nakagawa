@@ -1,5 +1,5 @@
-# Hi there, I'm Kaizo Nakagawa 👋
-### Software Developer & Systems Engineer 🚀
+# Hi there, I'm Kaizo Nakagawa
+### Software Developer & Systems Engineer
 
 I am a passionate developer focused on building efficient web applications, managing robust system infrastructures, and exploring the capabilities of embedded systems. Currently, I specialize in engineering digital solutions, optimizing server architectures, and bridging the gap between hardware and software.
 
@@ -22,6 +22,7 @@ I am a passionate developer focused on building efficient web applications, mana
 #### **Hardware & Embedded Systems**
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
 ![FreeRTOS](https://img.shields.io/badge/FreeRTOS-1A84C3?style=for-the-badge&logo=freertos&logoColor=white)
+<br>
 *C / C++ (ESP-NOW, HID Reporting, Mutex/Semaphore Architectures)*
 
 #### **Tools & Environment**
