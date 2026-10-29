@@ -21,7 +21,8 @@ I am a passionate developer focused on building efficient web applications, mana
 
 #### **Hardware & Embedded Systems**
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
-![FreeRTOS](https://img.shields.io/badge/FreeRTOS-1A84C3?style=for-the-badge&logo=freertos&logoColor=white)
+![FreeRTOS](https://img.shields.io/badge/FreeRTOS-1A84C3?style=for-the-badge&logo=clockify&logoColor=white)
+![C++](https://img.shields.io/badge/C++-1A84C3?style=for-the-badge&logo=cplusplus&logoColor=white)
 <br>
 *C / C++ (ESP-NOW, HID Reporting, Mutex/Semaphore Architectures)*
 
